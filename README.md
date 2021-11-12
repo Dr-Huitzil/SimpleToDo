@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/02rrMFC.gif' title='SimpleToDo1' width='' alt='SimpleToDo1' />
+<img src='https://i.imgur.com/02rrMFC.gif' title='SimpleToDo1' width='' alt='SimpleToDo1' />
 
 GIF created with [Imgur](http://www.imgur.com).
 
