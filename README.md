@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-<img src="xP6GvAv.gif", width=250 title='SimpleToDo1' width='' alt='SimpleToDo1' />
+</img src="https://i.imgur.com/xP6GvAv.gif", width=250 title='SimpleToDo1' width='' alt='SimpleToDo1' />
 
 GIF created with [Imgur](http://www.imgur.com).
 
