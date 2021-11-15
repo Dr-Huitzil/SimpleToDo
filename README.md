@@ -26,9 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/HsWx6yl"  ><a href="//imgur.com/a/HsWx6yl">SimpleToDo1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<title='SimpleToDo1' width='' alt='SimpleToDo1' />
+
+<img src="xP6GvAv.gif", width=250 title='SimpleToDo1' width='' alt='SimpleToDo1' />
 
 GIF created with [Imgur](http://www.imgur.com).
 
